@@ -12,9 +12,7 @@ work-detection-system は、エッジコンピューティング環境におい�
 
 ![work-detection-system](documents/work_detection_system_drowio.png)
 
-図内の赤い矢印の詳細順序は以下の通りです。   
-XXXXXXXXXXXXXXX
-XXXXXXXXXXXXXX
+
 
 
 ## work-detection-system に含まれるリソース
