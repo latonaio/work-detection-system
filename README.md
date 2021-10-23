@@ -18,18 +18,18 @@ work-detection-system は、エッジコンピューティング環境におい�
 ## work-detection-system に含まれるリソース
 
 work-detection-system には、以下の マイクロサービス等 のリソースが含まれます。  
-・aion-coreおよび関連リソース  
+・[aion-core](https://github.com/latonaio/aion-core)および関連リソース  
 ・ui-frontend-for-work-detection  
 ・ui-backend-for-work-detection  
-・control-mitsubishi-plc-r-kube  （※1）  
-・control-mitsubishi-plc-w-kube  （※2）  
-・template-matching-opencv-for-rtsp  
-・summarize-ok-ng-kube  
-・import-for-template-matching  
+・[control-mitsubishi-plc-r-kube](https://github.com/latonaio/control-mitsubishi-plc-r-kube)  （※1）  
+・[control-mitsubishi-plc-w-kube](https://github.com/latonaio/control-mitsubishi-plc-w-kube)  （※2）  
+・[template-matching-by-opencv-for-rtsp](https://github.com/latonaio/template-matching-by-opencv-for-rtsp)  
+・[summarize-ok-ng-kube](https://github.com/latonaio/summarize-ok-ng-kube)  
+・import-template-for-matching  
 
 （※1）のマイクロサービスは、次のマイクロサービスに代替されることができます。  
-control-jtekt-plc-r-kube, control-yaskawa-robot-r-kube    
+[control-jtekt-plc-r-kube](https://github.com/latonaio/control-jtekt-plc-r-kube), [control-yaskawa-robot-r-kube](https://github.com/latonaio/control-yaskawa-robot-r-kube)   
 （※2）のマイクロサービスは、次のマイクロサービスに代替されることができます。  
-control-jtekt-plc-w-kube, control-yaskawa-robot-w    
+[control-jtekt-plc-w-kube](https://github.com/latonaio/control-jtekt-plc-w-kube), [control-yaskawa-robot-w](https://github.com/latonaio/control-yaskawa-robot-w)    
 
 
